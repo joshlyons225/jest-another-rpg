@@ -1,3 +1,3 @@
-const Game = require('../jest-another-rpg/lib/Game');
+const Game = require('./lib/Game');
 
 new Game().initializeGame();
